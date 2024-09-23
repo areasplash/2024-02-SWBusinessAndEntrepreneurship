@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 5a1f8b9a1a1776a4cba1da1c00e490d1
+  m_Entries:
+  - m_Id: 1219032375296
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365166120960
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1452596387840
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490684862464
+    m_Key: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77437580730368
+    m_Key: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76998126723072
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63216612663296
+    m_Key: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36283208294400
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36322970296320
+    m_Key: Full Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36466562293760
+    m_Key: Screen Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36623643172864
+    m_Key: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36660171366400
+    m_Key: Sound FX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63330223775744
+    m_Key: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36725791252480
+    m_Key: Move Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36806137339904
+    m_Key: Move Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36844573941760
+    m_Key: Move Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36897858379776
+    m_Key: Move Down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36930875940864
+    m_Key: Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36991584296960
+    m_Key: Fire Primary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37116637470720
+    m_Key: Fire Sidearm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37200557105152
+    m_Key: Parring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37236460347392
+    m_Key: Use Ability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63478098157568
+    m_Key: Advanced
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37319893442560
+    m_Key: Delete All Data
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2839315561986916649
+  references:
+    version: 2
+    RefIds:
+    - rid: 2839315561986916649
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1727006064015
