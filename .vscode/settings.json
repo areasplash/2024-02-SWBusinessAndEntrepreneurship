@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Project GK.sln"
+    "dotnet.defaultSolution": "2024-02-SWBusinessAndEntrepreneurship.sln"
 }
